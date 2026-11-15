@@ -764,7 +764,11 @@ These are candidate directions, not claims that the features are already impleme
 
 ## 📄 License
 
-A license file was not present in the inspected repository root at the time of this documentation update. Do not assume the project is open for reuse or redistribution until the repository owner adds and confirms a license. See the repository's licensing decision before using this project in another product.
+This repository is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for the complete license text.
+
+Copyright (c) 2026 Brajesh Kumar.
+
+The MIT License permits use, modification, distribution, sublicensing, and sale of copies, subject to the conditions stated in the license. The license applies only to material the copyright holder is authorized to license. Third-party packages, assets, APIs, and other externally sourced materials remain subject to their own applicable terms and licenses.
 
 ---
 
