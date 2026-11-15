@@ -750,6 +750,9 @@ These are candidate directions, not claims that the features are already impleme
 | [Accessibility](docs/accessibility.md) | Accessibility review process |
 | [Troubleshooting](docs/troubleshooting.md) | Common setup and runtime problems |
 | [Roadmap](docs/roadmap.md) | Candidate maintenance priorities |
+| [FAQ](docs/faq.md) | Common project and setup questions |
+| [Maintenance](docs/maintenance.md) | Repository and dependency maintenance |
+| [Release process](docs/release-process.md) | Release validation and publishing checklist |
 | [Contributing](CONTRIBUTING.md) | Contribution workflow |
 | [Security](SECURITY.md) | Vulnerability reporting and secrets |
 | [Code of Conduct](CODE_OF_CONDUCT.md) | Community behaviour |
