@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/Brajesh31/Aahar-AI/tree/main/docs
+    about: Read the project guides before opening a usage question.
+  - name: 🔐 Security vulnerability
+    url: https://github.com/Brajesh31/Aahar-AI/blob/main/SECURITY.md
+    about: Follow the private reporting instructions in the security policy. Do not post secrets publicly.
